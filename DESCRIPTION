@@ -1,9 +1,9 @@
-Package: Hypothesis Testing
+Package: HypothesisTesting
 Type: Package
 Title: Contains Functionalities To Perform Hypothesis Testing
 Version: 0.2.0
 Author: Janish Parikh
-Maintainer: Janish Parikh <https://janishparikh.com>
+Maintainer: Janish Parikh <Joe.Developer@some.domain.net>
 Description: More about what it does (maybe more than one line)
     Use four spaces when indenting paragraphs within the Description.
 License: What license is it under?
