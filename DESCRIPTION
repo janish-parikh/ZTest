@@ -1,9 +1,9 @@
-Package: ZTest
+Package: Hypothesis_Testing
 Type: Package
-Title: What the Package Does (Title Case)
-Version: 0.1.0
+Title: Contains Functionalities To Perform Hypothesis Testing
+Version: 0.2.0
 Author: Janish Parikh
-Maintainer: The package maintainer <yourself@somewhere.net>
+Maintainer: Janish Parikh <https://janishparikh.com>
 Description: More about what it does (maybe more than one line)
     Use four spaces when indenting paragraphs within the Description.
 License: What license is it under?
